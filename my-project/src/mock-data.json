@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "firstName":"jenny",
+        "lastName":"chan",
+        "UserName":"jenny_123",
+        "phoneNumber":"333-962-7516",
+        "email":"jenny.chan@mail.com",
+        "skill":"HTML CSS JS",
+        "experience":"3",
+        "description":"I did Btech in 2022 I am working last 3yeras in the wipro , I love to do coding"
+    },
+
+{
+   "id":2,
+   "firstName": "Raman",
+   "lastName": "Kholi",
+   "UserName": "Raman_199",
+   "phoneNumber": "011-211-7516",
+   "email": "raman.kholi@email.com",
+   "skill": "HTML CSS JS",
+   "experience": "2",
+   "description": "I did Btech in 2022 I am working last 2yeras in the wipro , I love to do coding"
+}
+
+,
+ {
+    "id": 3,
+   "firstName": "Tony",
+   "lastName": "Gupta",
+   "UserName": "Tony_9898",
+   "phoneNumber": "788-962-7521",
+   "email": "tony.gupta@email.com",
+   "skill": "HTML CSS JS",
+   "experience": "5",
+   "description": "I did Btech in computer science engg in batch 2018. I am working as frontend devloper from last 5yeras."
+},
+
+{
+    "id": 4,
+   "firstName": "Anjali",
+   "lastName": "sharma",
+   "UserName": "Tony_9898",
+   "phoneNumber": "788-962-7521",
+   "email": "tony.gupta@email.com",
+   "skill": "HTML CSS JS",
+   "experience": "5",
+   "description": "I did Btech in computer science engg in batch 2018. I am working as frontend devloper from last 5yeras."
+}
+
+
+]

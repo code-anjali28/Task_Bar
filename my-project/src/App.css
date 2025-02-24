@@ -1,0 +1,111 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50;
+    padding: 0;
+    background-color: #f8f9fa;
+  }
+  
+  .MainClass {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .app-container {
+    background: #a6d707;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 30px;
+    width: 50%;
+    max-width: 900px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+  }
+  
+  h2 {
+    font-style: bold;
+    color: #ff5733;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  input, textarea, button {
+    width: 80%;
+    padding: 10px;
+    margin: 5px 0 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    font-size: 14px;
+    text-justify: auto;
+  }
+  
+  button {
+    background-color: #28a745;
+    color: #150404;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+  
+  textarea {
+    resize: none;
+  }
+  
+  .TableCard {
+    margin-top: px;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .TableCard th, .TableCard td {
+    border: 5px solid black;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .TableCard th {
+    background-color: #ffae00;
+    color: black;
+  }
+  
+  .TableCard tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .TableCard tbody tr:hover {
+    background-color: #f1c40f;
+    cursor: pointer;
+  }
+  
+  .TableCard .actions {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .text-red-600 {
+    color: #e3342f;
+  }
+  
+  .font-bold {
+    font-weight: bold;
+  }
+  
+  .border-spacing-2 {
+    border-spacing: 2px;
+  }
+  
